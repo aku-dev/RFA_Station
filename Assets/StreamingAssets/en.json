@@ -1,0 +1,80 @@
+{"values":[
+	{"key":"empty", "value":"empty"},
+	
+	{"key":"menu_resume", "value":"CONTINUE"},
+	{"key":"menu_load", "value":"LOAD LAST GAME"},
+	{"key":"menu_new_game", "value":"NEW GAME"},
+	{"key":"menu_settings", "value":"SETTINGS"},
+	{"key":"menu_help", "value":"HELP"},
+	{"key":"menu_exit", "value":"EXIT"},
+	{"key":"menu_back", "value":"BACK"},
+	{"key":"menu_new_game_confirm", "value":"Start a new game?\n\nThe previous game process will be lost."},
+	
+	{"key":"menu_set_lang", "value":"Language"},
+	{"key":"menu_set_music", "value":"Music volume"},
+	{"key":"menu_set_effects", "value":"Effects volume"},
+	{"key":"menu_set_voices", "value":"Voice volume"},
+	{"key":"menu_set_mouse", "value":"Sensitivity"},
+	{"key":"menu_set_invert", "value":"Invert Y-Axis"},
+	{"key":"menu_set_vsync", "value":"VSync"},
+	{"key":"menu_set_smoothing", "value":"Anti-aliasing"},		
+	{"key":"menu_set_gamma", "value":"Gamma"},
+	{"key":"menu_set_joytype", "value":"XBOX Joystic"},
+	{"key":"menu_set_quality", "value":"Quality"},
+	
+	{"key":"quality_value_0", "value":"Very Low"},	
+	{"key":"quality_value_1", "value":"Low"},	
+	{"key":"quality_value_2", "value":"Medium"},	
+	{"key":"quality_value_3", "value":"High"},	
+	{"key":"quality_value_4", "value":"Very High"},	
+	{"key":"quality_value_5", "value":"Ultra"},	
+	
+	{"key":"menu_about", "value":"Game created AK Studio:\n\nCreated by: Alexander Kuznetsov.\nDesign: Irina Kuznetsova.\nMusic: Alexander Kuznetsov.\nModels: Yuri Tubin.\n\nControls:\n\nWSAD - Movement.\nLMB - Interaction.\nLeft Shift - Run.\nSpace - Jump."},
+
+	{"key":"door_locked", "value":"Door is closed."},
+	{"key":"door_locked_1", "value":"Door is closed, explore the room."},
+
+	{"key":"quest_0_0", "value":"To open access go to AREA 02."},
+	{"key":"quest_0_1", "value":"Access granted."},
+
+
+	{"key":"in_text_0", "value":"Welcome to the RFA-1 space station."},
+	{"key":"in_text_1", "value":"Our station has the most modern equipment for long space flights."},
+	{"key":"in_text_2", "value":"To check, go to the check-in desk or use the nearest intercom."},
+	{"key":"in_text_3", "value":"Thank you for choosing our company for the flight, it is safe with us."},
+	
+	
+	{"key":"demo_end_1", "value":"You completed the demo version of the game."},
+	{"key":"demo_end_2", "value":"You are a really cool fighter!!!"},
+	{"key":"demo_end_3", "value":"Add this game to wishlist and subscribe!"},
+	{"key":"demo_end_4", "value":"A lot of interesting things are waiting for you ahead."},
+	
+	{"key":"demo_end_all", "value":"You completed the demo version of the game.\n\nYou are a really cool fighter!!!\n\nAdd this game to wishlist and subscribe!\n\nA lot of interesting things are waiting for you ahead."},
+	
+	
+	{"key":"help_esc", "value":"Menu"},
+	{"key":"help_wasd", "value":"Movement"},
+	{"key":"help_fire", "value":"Fire"},
+	{"key":"help_reload", "value":"Reload"},
+	{"key":"help_crouch", "value":"Crouch"},
+	{"key":"help_sweapon", "value":"Switch Weapons"},
+	{"key":"help_nweapon", "value":"Next Weapon"},
+	{"key":"help_dweapon", "value":"Drop Weapon"},
+	{"key":"help_steal", "value":"Steal"},
+	{"key":"help_jump", "value":"Jump"},
+	
+	{"key":"help_descr", "value":"Game developed by AK Studio\n\nCreated by: Alexander Kuznetsov.\nDesign: Irina Kuznetsova.\nMusic: Alexander Kuznetsov.\n3D Models: Yuri Tubin.\n\nEMail: admin@aksweb.ru"},
+	
+	{"key":"stat_title", "value":"[ STATISTICS ]\n\n"},
+	{"key":"stat_enemys", "value":"Enemy kills"},
+	{"key":"stat_enemy_shots", "value":"Enemy shots"},
+	{"key":"stat_player_shots", "value":"Player shots"},
+	{"key":"stat_player_damage", "value":"Player damage"},
+	{"key":"stat_enemy_damage", "value":"Enemy damage"},
+	{"key":"stat_hit_rate", "value":"Hit rate"},
+	{"key":"stat_crit_rate", "value":"Critical rate"},
+	{"key":"stat_game_time", "value":"Game time"},	
+
+	
+	{"key":"gameover", "value":"You are dead, mission failed."}
+]}

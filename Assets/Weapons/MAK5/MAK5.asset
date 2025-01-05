@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3cd34f15a21764f92883407f86bd70, type: 3}
+  m_Name: MAK5
+  m_EditorClassIdentifier: 
+  _WeaponName: MAK5
+  _Type: 1
+  _BulletType: 2
+  _Auto: 0
+  _Magazine: 15
+  _Speed: 0.1
+  _Damage: 8
+  _Mass: 1
+  _SprayWeightMin: 5
+  _SprayWeightMax: 50
+  _SprayWeightMove: 20
+  _SprayStepAdd: 10
+  _SprayStepDec: 100
+  _SprayHeight: 1
